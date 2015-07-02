@@ -1,6 +1,6 @@
 # bario-iban
 
-A Polymer element to fill a [International Bank Account Number](https://en.wikipedia.org/wiki/International_Bank_Account_Number) (IBAN)
+A Polymer element to fill an [International Bank Account Number](https://en.wikipedia.org/wiki/International_Bank_Account_Number) (IBAN)
 
 ## Work in progress
 
